@@ -1,9 +1,9 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Jed's Peds Help Site
+site_description: 'A guide to help you troubleshoot your new pedal build.'
+site_author: 'Jed'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'sonosus/pedal-docs'
+repo_url: 'https://github.com/sonosus/pedal-docs'
 nav:
     - Home: index.md
 theme:
