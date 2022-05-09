@@ -1,40 +1,14 @@
-## Sample
+# Jeds Peds Troubleshooting Guide
 
-One more, finally. Or not? :)
+Your shiny new pedal is making you want to smash things up, lets see if we can turn that frown upside down by following some methodical trouble shooting tips.
 
-Now:
+Firstly... 
 
-```
-$ some 
-```
-
-Look what she said:
-
-> This is it!
-
-### Subtitle
-
-And now this:
-
-- One
-- Two
-- Three
+Don’t beat yourself up if it didn’t work first time. I’ve got a shelf full of circuits that I’m coming back to! We all have. Nobody was born with the ability to build a guitar pedal. We are all just learning along the way.
 
 
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
 
 
-Can we now have `the build`?
+## Initial Check-List
 
-NOW!
-
-
-Not gonna work, is it?
+* My build is connected as per the test phase in the PDF, or to an offboard tester such as the test bed.
